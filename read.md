@@ -1,1 +1,1 @@
-This is my first real project setting up a page the looks like Google'slanding page.
+This is my first real project setting up a page the looks like Google's landing page.
